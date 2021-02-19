@@ -1,0 +1,11 @@
+config SEC_GTS7XL_PROJECT
+	default n
+	bool "Samsung GTS7XL Project"
+	help
+	  Support for Samsung GTS7XL Project
+
+config MACH_GTS7XL_USA_SINGLE
+	default n
+	bool "Samsung GTS7XL USA SINGLE"
+	help
+	  Support for Samsung GTS7XL USA SINGLE device.
